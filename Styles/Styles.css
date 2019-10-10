@@ -1,0 +1,25 @@
+.letter{
+    color: brown;
+    font-size: 200%;
+    
+}
+.block1{
+    font-size: 200%;
+    color: rgb(17, 240, 47);
+
+}
+.block2{
+    font-size: 23px;
+    color: cyan;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.letter{
+    font-size: 44px;
+    color: deeppink;
+    font-family: cursive;
+}
+.letter1{
+    font-size: xx-large;
+    color: forestgreen;
+    font-family: fantasy;
+}
